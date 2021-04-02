@@ -7,9 +7,3 @@
 [submodule "newlib"]
 	path = newlib
 	url = https://github.com/puppeh/newlib-vc4.git
-[submodule "resim"]
-	path = resim
-	url = https://github.com/puppeh/resim.git
-[submodule "cgen"]
-	path = cgen
-	url = https://github.com/puppeh/cgen.git
